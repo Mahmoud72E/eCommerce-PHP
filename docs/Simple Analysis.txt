@@ -1,0 +1,19 @@
+
+
+
+# Pages & Features:
+ - Settings
+ - Dashboard
+ - Statistics
+ - Log
+ - Users
+ - Comments
+
+# Pages
+    init.php  // Page for All Shorts and Pages in Our Project
+
+ ## Prog Var :
+
+    $noNavbar   = '';                        // Don't Make Navbar In This Page
+    $pageTitle  = "Name For This Page";      // Make Page Title In This Page
+
