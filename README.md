@@ -42,7 +42,7 @@ This is an eCommerce website project built with PHP, MySQL, Bootstrap, jQuery, J
 
 5. Configure the database connection:
 
-- Open the `config.php` file in the project directory.
+- Open the `eCommerce-PHP/admin/connect.php` file in the project directory.
 - Update the database credentials to match your environment.
 
 6. Access the website:
